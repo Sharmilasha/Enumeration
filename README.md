@@ -36,6 +36,17 @@ Following searches for all the sites that is in the domain yahoo.com
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
+## OUTPUT:
+![s1](https://github.com/Sharmilasha/Enumeration/assets/94506182/906bd6cc-a0fe-410e-8383-febbfe41128b)
+![s2](https://github.com/Sharmilasha/Enumeration/assets/94506182/4ed66c90-3e48-43a6-a9bd-1244038b1857)
+![s3](https://github.com/Sharmilasha/Enumeration/assets/94506182/0a1c55fc-564b-4083-85e6-4a99848e0fcd)
+![s4](https://github.com/Sharmilasha/Enumeration/assets/94506182/58fd2940-a7f9-419c-a077-fea149b65e2d)
+![s5](https://github.com/Sharmilasha/Enumeration/assets/94506182/79115fd8-21c5-4d29-bf14-63eb3d057370)
+![s6](https://github.com/Sharmilasha/Enumeration/assets/94506182/307553ef-088b-46c8-8e2d-7a1546ef58d7)
+![s8](https://github.com/Sharmilasha/Enumeration/assets/94506182/c9c7562c-3930-4a1e-a78d-4bfc9bc26423)
+
+
+
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
@@ -60,6 +71,15 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
+ ![o1](https://github.com/Sharmilasha/Enumeration/assets/94506182/158c924a-c615-4257-bd9a-4048f219fc38)
+ ![o2](https://github.com/Sharmilasha/Enumeration/assets/94506182/80f59720-f379-407e-ba2c-58056c8bcb4d)
+
+
+
+
+
+
+
 
 
 
@@ -81,14 +101,25 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
+## OUTPUT:
+
+![P1](https://github.com/Sharmilasha/Enumeration/assets/94506182/66c3846d-712e-4889-ba9e-ca1d720aa97a)
+
+
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
+## OUTPUT:
+![P2](https://github.com/Sharmilasha/Enumeration/assets/94506182/e0e7df20-8def-4a9f-9bb8-f9a3eb32b373)
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+![P3](https://github.com/Sharmilasha/Enumeration/assets/94506182/5ccbc2d0-aedd-41ba-9c12-f47d9fc5458b)
+
 
 select any username in the first column of the above file and check the same
+![P4](https://github.com/Sharmilasha/Enumeration/assets/94506182/b886dec1-e0c1-4ef3-9367-c85b7a5baabc)
+
 
 
 #Telnet for smtp enumeration
@@ -96,7 +127,13 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+ ## Output:
+ ![K1](https://github.com/Sharmilasha/Enumeration/assets/94506182/93b678e2-cf19-4533-92d0-e168dd1b6273)
+
+
+
+
+ 
   
   
 
@@ -106,6 +143,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![K2](https://github.com/Sharmilasha/Enumeration/assets/94506182/f54f3b64-4c62-4f6a-9767-288496650058)
+
 
 
 ## RESULT:
